@@ -1,3 +1,4 @@
 # mymarket_back
 
-this open project.
+This is open project.
+Idea is taken from mymarket.ge
